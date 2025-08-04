@@ -1,6 +1,6 @@
 # Company Database – ER Diagram Design
 
-![Company ER Diagram](https://github.com/user-attachments/assets/3b8cbf7f-cadf-4e04-99ae-52aa96f08454)
+![Company ER Diagram](https://github.com/user-attachments/assets/0a34a50b-fbb1-4759-83d7-210a524a74cc)
 
 ---
 
