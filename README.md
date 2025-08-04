@@ -92,5 +92,5 @@
 
 ---
 
-**Author:** _[Al Baraa Al Harthi]_  
+**Author:** _Al Baraa Al Harthi_  
 **Purpose:** ER Diagram documentation for company database design.
