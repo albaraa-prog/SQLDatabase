@@ -1,6 +1,8 @@
 
 # Company Database Relational Schema
-
+---
+![IMG_1467](https://github.com/user-attachments/assets/2a3c0dad-7ec1-4669-88f0-91ce989cda41)
+---
 ## 1. Employee
 ```
 Employee(
