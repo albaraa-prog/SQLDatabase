@@ -76,11 +76,3 @@ CREATE TABLE DepartmentManager (
     FOREIGN KEY (SSN) REFERENCES Employee(SSN)
 );
 ```
-
----
-
-### Next Steps:
-- Run these scripts in your SQL environment.
-- Insert sample data for testing.
-- Verify relationships using `JOIN` queries.
-- Attach screenshots of successful table creation for documentation.
